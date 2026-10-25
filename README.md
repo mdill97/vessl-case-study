@@ -1,6 +1,6 @@
 # VESSL — an ERP for a 10-person importer, built from scratch
 
-**What it is:** the operations system [King Universal](https://kinguniversal.com) (a Raleigh, NC importer of licensed consumer products) runs on every day — quotes, sales and purchase orders, freight, customs cost, product testing and compliance, and a client portal. Live at `orders.vessl.io` since summer 2026. One developer: me.
+**What it is:** the operations system [King Universal](https://kinguniversal.com) (a Raleigh, NC importer of licensed consumer products) runs on every day — quotes, sales and purchase orders, freight, customs cost, product testing and compliance, and a client portal. Live at `orders.vessl.io` since summer 2026. I am currently the only developer with a little help from Riley at the start. 
 
 **Why it exists:** the company ran on spreadsheets and email. Quotes lived in Excel, orders were re-typed three times, freight requests were copied by hand to each forwarder, and nobody could answer "what did we quote this client last time?" without a search through inboxes. VESSL replaced that, one workflow at a time, usually the week someone asked.
 
